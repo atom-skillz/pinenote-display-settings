@@ -1,0 +1,1 @@
+# pinenote-display-settings
